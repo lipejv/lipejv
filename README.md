@@ -39,10 +39,13 @@
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![.Net](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/lipejv/JornadaPython)
 </br>
+</br>
 
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=lipejv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipejv&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/lipejv">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=lipejv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipejv&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
