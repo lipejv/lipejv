@@ -37,7 +37,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/lipejv/JornadaPython)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/lipejv/JornadaPython)
-[![.Net](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/lipejv/JornadaPython)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@FelipeVasconc13)
 </br>
 </br>
 
