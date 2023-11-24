@@ -1,11 +1,11 @@
 ### olá! eu sou o Felipe. Bem Vindo ao meu GitHub!🤓👋🏻
 
-
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
 
 </br>
 <p align="center"> 
-<a href="" target="_blank"><img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" alt="image host" height="100%" width="225px"></a>
+<a href="" target="_blank"><img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" alt="image host" height="5%" width="225px"></a>
 </p>
 
 - 🎓 I'm a graduate student in Computer Engineering - IFPB;
@@ -27,12 +27,14 @@
 
 
 ### Tecnologias e Repositórios
-</br>
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/lipejv/JornadaPython)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/lipejv/JornadaPython)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/lipejv/JornadaPython)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/lipejv/JornadaPython)
 [![.Net](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/lipejv/JornadaPython)
@@ -41,7 +43,10 @@
 
 <div align="center">
   <a href="https://github.com/lipejv">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lipejv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipejv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="20%" width="400px" src="https://github-readme-stats.vercel.app/api?username=lipejv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipejv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
+
+### Um pouco sobre mim e minha jornada no mundo da tecnologia...
